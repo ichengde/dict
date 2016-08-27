@@ -1,0 +1,20 @@
+{
+  "name": "dict",
+  "version": "1.0.0",
+  "description": "A command line dictionary",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "index.js",
+  "bin": {
+    "dt": "./index.js"
+  },
+  "author": "chegde@foxmail.com",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
