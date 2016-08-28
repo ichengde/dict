@@ -4,7 +4,7 @@
   "description": "A command line dictionary",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ichengde/dict"
   },
   "main": "index.js",
   "bin": {
@@ -13,7 +13,9 @@
   "author": "chegde@foxmail.com",
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^3.4.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
