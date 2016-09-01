@@ -10,4 +10,4 @@
 ```
 #### usage
 
-[Imgur](http://i.imgur.com/7bF68Pt.gif)
+![Markdown](http://i4.buimg.com/1949/7c0965f6a82dd090.gif)
