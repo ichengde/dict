@@ -1,12 +1,12 @@
 {
   "name": "simple-dict",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A command line dictionary",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ichengde/dict.git"
   },
-  "main": "index.js",
+  "main": "./index.js",
   "bin": {
     "dt": "./index.js"
   },

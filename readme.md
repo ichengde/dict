@@ -9,9 +9,5 @@
     $ npm install simple-dict -g
 ```
 #### usage
-```
-    dt work
-```
-to see answers:
 
-![Markdown](http://i1.buimg.com/1949/d29512097b49daad.png)
+[Imgur](http://i.imgur.com/7bF68Pt.gif)
